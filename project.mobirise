@@ -1,13 +1,14 @@
 {
   "settings": {
     "name": "tabatoo-gps-fr",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#252525"
+        "#252525",
+        "#777777"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -680,7 +681,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false,
             "showArrow": true,
@@ -709,7 +710,7 @@
           "_anchor": "header4-j",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           }
         },
@@ -779,47 +780,6 @@
               "font-size": "16px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#efefef"
-            },
-            ".mbr-article": {
-              "color": "#efefef",
-              "font-size": "22px"
-            },
-            ".mbr-header .mbr-header__text DIV": {
-              "color": "#efefef"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#252525",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "",
-          "text": "Track the location of your vehicles online in real-time. Choose from the following maps: Google, Satellite and OSM. View additional information about your vehicles, including its speed, exact location, fuel consumption and travel history.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-21"
         },
         {
           "_params": {

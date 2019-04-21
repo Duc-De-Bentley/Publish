@@ -115,7 +115,7 @@
   color: #1abc9c;
 }
 #header4-j H1 {
-  color: #ffffff;
+  color: #efefef;
 }
 #msg-box1-1x .mbr-header .mbr-header__text {
   color: #efefef;
@@ -130,16 +130,6 @@
 #content1-1n P {
   text-align: left;
   font-size: 16px;
-}
-#msg-box1-21 .mbr-header .mbr-header__text {
-  color: #efefef;
-}
-#msg-box1-21 .mbr-article {
-  color: #efefef;
-  font-size: 22px;
-}
-#msg-box1-21 .mbr-header .mbr-header__text DIV {
-  color: #efefef;
 }
 #dropdown-menu-2btn-4 .hide-buttons [data-button] {
   display: none !important;
