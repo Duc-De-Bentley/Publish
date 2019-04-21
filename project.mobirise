@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-gps-fr",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -25,7 +25,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Accueil TABATOO",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -184,7 +184,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "Solutions",
+        "title": "TABATOO Solutions",
         "order": 2
       },
       "components": [
@@ -622,7 +622,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "About",
+        "title": "TABATOO",
         "order": 3
       },
       "components": [
@@ -845,7 +845,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "Features",
+        "title": "TABATOO Offres",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1072,7 +1072,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "Sorry",
+        "title": "TABATOO Info",
         "order": 4
       },
       "components": [
