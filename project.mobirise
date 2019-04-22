@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "tabatoo-gps-fr",
-    "currentPage": "page3.html",
+    "name": "tabatoo-fr",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -55,7 +55,7 @@
           },
           "title": "<br>UNE SOLUTION FIABLE DE TRACKING GPS",
           "text": "Une proposition unique pour une solution de suivi GPS complète! Suivez, gérez et mesurez les performances de votre flotte de véhicules avec la solution GPS la plus avancée en Mauritanie pour votre entreprise.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">EXPLORER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"offres.html\" data-toolbar=\"-mbrBtnMove\">DÉCOUVRIR</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"solutions.html\" data-toolbar=\"-mbrBtnMove\">EXPLORER</a>",
           "_tags": [
             "Theme"
           ],
@@ -80,7 +80,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -138,7 +138,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "page3.html",
+              "link": "qui-sommes-nous.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -181,7 +181,7 @@
         }
       ]
     },
-    "page4.html": {
+    "solutions.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "TABATOO - Solutions",
@@ -201,7 +201,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -576,7 +576,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "page3.html",
+              "link": "qui-sommes-nous.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -619,7 +619,7 @@
         }
       ]
     },
-    "page3.html": {
+    "qui-sommes-nous.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "TABATOO - Qui Sommes-Nous?",
@@ -639,7 +639,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -800,7 +800,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "page3.html",
+              "link": "qui-sommes-nous.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -843,7 +843,7 @@
         }
       ]
     },
-    "page2.html": {
+    "offres.html": {
       "settings": {
         "title": "TABATOO - Offres",
         "meta_descr": "",
@@ -866,7 +866,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1026,7 +1026,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "page3.html",
+              "link": "qui-sommes-nous.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1069,7 +1069,7 @@
         }
       ]
     },
-    "page5.html": {
+    "info.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "TABATOO - Info",
@@ -1089,7 +1089,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#msg-box2-25\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"page5.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">NOTRE OFFRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SERVICES &amp; SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://duc-de-bentley.github.io/tabatoo-gps/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html#contacts1-23\"><span class=\"mbrib-paper-plane mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1216,7 +1216,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "page3.html",
+              "link": "qui-sommes-nous.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
