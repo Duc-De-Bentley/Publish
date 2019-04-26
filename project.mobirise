@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "index.html",
+    "currentPage": "solutions.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -25,7 +25,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TABATOO - Accueil",
+        "title": "TABATOO GPS - Accueil",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -184,7 +184,7 @@
     "solutions.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "TABATOO - Solutions",
+        "title": "TABATOO GPS - Solutions",
         "order": 2
       },
       "components": [
@@ -302,7 +302,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "La technologie de géolocalisation de <b>TABATOO GPS SOLUTION</b> vous fournit non seulement des informations de base concernant l'emplacement exacte de votre véhicule, mais aussi des informations supplémentaires telles que la vitesse, le niveau de carburant et l'historique de l'itinéraire du véhicule.&nbsp;Vous pouvez également aller plus loin en configurant différentes alertes et notifications. Ne laissez plus votre véhicule aller là où vous ne le désirez pas, recevez des notifications instantannées sur les événements importants et assurez-vous de désactivez facilement le moteur à distance.",
+          "text": "La technologie de géolocalisation de <b>TABATOO GPS SOLUTION</b> vous fournit non seulement des informations de base concernant l'emplacement exacte de votre véhicule, mais aussi des informations supplémentaires telles que la vitesse, le niveau de carburant et l'historique de l'itinéraire du véhicule. Vous pouvez également aller plus loin en configurant différentes alertes et notifications. Ne laissez plus votre véhicule aller là où vous ne le désirez pas, recevez des notifications instantanées sur les événements importants et assurez-vous de désactivez facilement le moteur à distance.",
           "_tags": [
             "Theme"
           ],
@@ -375,7 +375,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TRANSPORT PROFESSIONNEL",
-          "text": "Partagez en direct avec vos clients la position de votre véhicule ou les zones visitées. Assurez-vous que vos matériaux de construction sont en lieu sûr et livrés à temps. <br><br>Réduisez l'entretien de vos véhicules en reconnaissant les conducteurs téméraires. Économisez de l'essence grâce au suivi en temps réel des véhicules et à l'optimisation des livraisons et des déplacements.<br>",
+          "text": "Partagez en direct avec vos clients la position de votre véhicule ou les zones visitées. Assurez-vous que vos matériaux de construction sont en lieu sûr et livrés à temps. <br><br>Réduisez l'entretien de vos véhicules en reconnaissant les conducteurs au style de conduite téméraire. Économisez de l'essence grâce au suivi en temps réel des véhicules et à l'optimisation des livraisons et des déplacements.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -622,7 +622,7 @@
     "qui-sommes-nous.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
-        "title": "TABATOO - Qui Sommes-Nous?",
+        "title": "TABATOO GPS - Qui Sommes-Nous?",
         "order": 3
       },
       "components": [
@@ -768,7 +768,7 @@
           "_anchor": "header3-1m"
         },
         {
-          "text": "<p><b>TABATOO GPS SOLUTIONS</b> est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique professionnels pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.</p><p>Le logiciel de&nbsp;<b>TABATOO GPS SOLUTIONS</b> a été développé en 2019 par une équipe d'Ingénieurs passionnés dont <b>Fousseynou COULIBALY</b>, l'actuel PDG et fondateur de la société. Le nom <b>TABATOO</b> est inspiré de la langue Soninké, une langue couramment parlée en Mauritanie. <b>TABATOO</b> signifie littéralement \"traces de pas\".</p><p>\n</p><p><b>TABATOO GPS SOLUTIONS</b> s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.\n</p><p>\n</p><p>Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment <b>TABATOO GPS SOLUTION</b> peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.</p>",
+          "text": "<p><b>TABATOO GPS SOLUTIONS</b> est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique professionnels pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.</p><p>Le logiciel de&nbsp;<b>TABATOO GPS SOLUTIONS</b> a été développé en 2019 par une équipe d'Ingénieurs passionnés dont <b>Fousseynou COULIBALY</b>, l'actuel PDG et fondateur de la société. Le nom <b>TABATOO</b> est inspiré de la langue Soninké, une langue couramment parlée en Mauritanie. <b>TABATOO</b> signifie littéralement \"traces de pas\".</p><p>\n</p><p><b>TABATOO GPS SOLUTIONS</b> s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.\n</p><p>\n</p><p>Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment <b>TABATOO GPS SOLUTIONS</b> peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.</p>",
           "_tags": [
             "Theme"
           ],
@@ -845,7 +845,7 @@
     },
     "offres.html": {
       "settings": {
-        "title": "TABATOO - Offres",
+        "title": "TABATOO GPS - Offres",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1072,7 +1072,7 @@
     "info.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "TABATOO - Info",
+        "title": "TABATOO GPS - Info",
         "order": 4
       },
       "components": [
