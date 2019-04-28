@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "index.html",
+    "currentPage": "solutions.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 65,
+    "uniqCompNum": 70,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/navigation-128x128-5.png",
@@ -282,38 +282,44 @@
           "_anchor": "msg-box1-1u"
         },
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
+            "showTitle": true,
             "showText": true,
-            "outside": true,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/automobile-car-clouds-707046-1400x933.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cheetah-731293-1280-1280x853.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "La technologie de géolocalisation de <b>TABATOO GPS SOLUTION</b> vous fournit non seulement des informations de base concernant l'emplacement exacte de votre véhicule, mais aussi des informations supplémentaires telles que la vitesse, le niveau de carburant et l'historique de l'itinéraire du véhicule. Vous pouvez également aller plus loin en configurant différentes alertes et notifications. Ne laissez plus votre véhicule aller là où vous ne le désirez pas, recevez des notifications instantanées sur les événements importants et assurez-vous de désactivez facilement le moteur à distance.",
+          "title": "LOCATION DE VÉHICULES",
+          "text": "La technologie de géolocalisation de <b>TABATOO GPS SOLUTION</b> vous fournit non seulement des informations de base concernant l'emplacement exacte de votre véhicule, mais aussi des informations supplémentaires telles que la vitesse, le niveau de carburant et l'historique de l'itinéraire du véhicule. <br><br>Vous pouvez également aller plus loin en configurant différentes alertes et notifications. Ne laissez plus votre véhicule aller là où vous ne le désirez pas, recevez des notifications instantanées sur les événements importants et assurez-vous de désactiver facilement le moteur à distance.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-1s",
+          "_name": "header1",
           "_styles": {
-            "SMALL": {
-              "font-size": "20px",
-              "color": "#ffffff"
+            "H1": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "21px",
+              "text-align": "left"
             }
-          }
+          },
+          "_anchor": "header1-1u"
         },
         {
           "_styles": {
