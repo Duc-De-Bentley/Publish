@@ -110,13 +110,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1-365x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -231,7 +230,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1-365x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -673,7 +672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1-365x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -936,7 +935,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1-365x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1159,7 +1158,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-transparent-1-365x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
