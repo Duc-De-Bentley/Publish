@@ -137,7 +137,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -580,7 +580,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -795,7 +795,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-3.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-2.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1054,7 +1054,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1244,7 +1244,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-2.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
