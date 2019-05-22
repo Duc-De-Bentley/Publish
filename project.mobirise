@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 71,
+    "uniqCompNum": 70,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-6.png",
@@ -84,7 +84,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">BESOIN D'AIDE?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">HELP?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -137,7 +137,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04-10.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -153,8 +153,8 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>\nBP 3698 - Nouakchott - Mauritanie<br>",
-          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 38 16 46 15<br>Lundi - Samedi 09:30 – 17:00<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 16 46 15</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
+          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 26 20 78 25<br>Lundi - Samedi 09:30 – 17:00<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 23 98 92</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -204,7 +204,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">BESOIN D'AIDE?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">HELP?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -230,7 +230,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -383,7 +383,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TRANSPORT PROFESSIONNEL",
-          "text": "Partagez en direct avec vos clients la position de votre véhicule ou les zones visitées. Assurez-vous que vos matériaux de construction sont en lieu sûr et livrés à temps. <br><br>Réduisez l'entretien de vos véhicules en reconnaissant les conducteurs au style de conduite téméraire. Économisez de l'essence grâce au suivi en temps réel des véhicules et à l'optimisation des livraisons et des déplacements.<br>",
+          "text": "Partagez en direct avec vos clients la position de votre véhicule ou les zones visitées. Assurez-vous que vos matériaux de construction sont en lieu sûr et livrés à temps. <br><br>Réduisez l'entretien de vos véhicules en reconnaissant les conducteurs au style de conduite téméraire. Économisez du carburant grâce au suivi en temps réel des véhicules et à l'optimisation des livraisons et des déplacements.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -467,7 +467,7 @@
                 "showTitle": true,
                 "title": "Bus<br>",
                 "contentAlign": "center",
-                "text": "Réduisez les coûts de carburant et réalisez des économies en réduisant les problèmes de ralenti excessif des véhicules grâce à des alertes et des rapports automatisés. Recevez des alertes intantannées lorsque l'un de vos véhicules entre ou quitte des limites géographiques autour de zones qui présentent un intérêt particulier pour vous. ",
+                "text": "Réduisez les coûts de carburant et réalisez des économies en réduisant les problèmes de ralenti excessif des véhicules grâce à des alertes et des rapports automatisés. Recevez des alertes intantanées lorsque l'un de vos véhicules entre ou quitte des limites géographiques autour de zones qui présentent un intérêt particulier pour vous. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               }
@@ -580,7 +580,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04-10.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -595,8 +595,8 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>\nBP 3698 - Nouakchott - Mauritanie<br>",
-          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 38 16 46 15<br>Lundi - Samedi 09:30 – 17:00<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 16 46 15</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
+          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 26 20 78 25<br>Lundi - Samedi 09:30 – 17:00<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 23 98 92</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -646,7 +646,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">BESOIN D'AIDE?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">HELP?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -672,7 +672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -829,7 +829,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04-10.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -844,8 +844,8 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>\nBP 3698 - Nouakchott - Mauritanie<br>",
-          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 38 16 46 15<br>Lundi - Samedi 09:30 – 17:00<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 16 46 15</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
+          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 26 20 78 25<br>Lundi - Samedi 09:30 – 17:00<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 23 98 92</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -898,7 +898,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">BESOIN D'AIDE?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">HELP?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -924,7 +924,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1003,7 +1003,7 @@
                 "showTitle": true,
                 "title": "Notifications",
                 "contentAlign": "left",
-                "text": "Recevez des alertes instantanées sur votre objet de suivi. Savoir quand l'objet entre ou sort d'une géo-zone. Obtenez des alarmes SOS si votre voiture a été volée et désactivez facilement le moteur à distance. Recevez des notifications sur votre iPhone ou votre appareil Android, par e-mail, application mobile ou SMS.",
+                "text": "Recevez des alertes instantanées sur votre objet de suivi. Savoir quand l'objet entre ou sort d'une géo-zone. Obtenez des alarmes SOS si votre voiture a été volée et désactivez facilement le moteur à distance. Recevez des notifications sur votre iPhone ou votre appareil Android, par e-mail, Application mobile ou SMS.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
@@ -1054,7 +1054,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04-10.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1070,8 +1070,8 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>\nBP 3698 - Nouakchott - Mauritanie<br>",
-          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 38 16 46 15<br>Lundi - Samedi 09:30 – 17:00<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 16 46 15</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
+          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 26 20 78 25<br>Lundi - Samedi 09:30 – 17:00<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 23 98 92</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -1121,7 +1121,7 @@
             "fontName": {},
             "fontColor": "#1abc9c"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"info.html\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">BESOIN D'AIDE?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"offres.html\" aria-expanded=\"false\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"solutions.html\">SOLUTIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"qui-sommes-nous.html\" aria-expanded=\"false\">À PROPOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"qui-sommes-nous.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://en.tabatoo-gps.com/index.html\">English</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"info.html#msg-box2-25\">العربية</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mbrib-responsive mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>DEMO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"https://tracking.tabatoo-gps.com\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span>TRAQUER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link\" href=\"qui-sommes-nous.html#social-buttons2-1p\">HELP?<span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(26, 188, 156);\"></span></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1147,7 +1147,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2019-05-04-05-37-56-logo.pdf-adobe-acrobat-reader-dc.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-4.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1244,7 +1244,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/04-10.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-transparent-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1260,8 +1260,8 @@
             }
           },
           "text1": "<strong>ADRESSE</strong><br>Route de Nouadhibou<br>Quartier de Tevragh Zeina<br>\nBP 3698 - Nouakchott - Mauritanie<br>",
-          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 38 16 46 15<br>Lundi - Samedi 09:30 – 17:00<br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 16 46 15</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
+          "text2": "<strong>SUPPORT &amp; ASSISTANCE</strong><br>\nEmail: <a href=\"mailto:support@tabatoo-gps.com\">support@tabatoo-gps.com</a><br>Téléphone: +222 26 20 78 25<br>Lundi - Samedi 09:30 – 17:00<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>VENTES &amp; CONSEILS</strong></p><ul class=\"mbr-contacts__list\"><li>Email: <a href=\"mailto:sales@tabatoo-gps.com\">sales@tabatoo-gps.com</a>\n</li><li>Téléphone: +222 38 23 98 92</li><li>Lundi - Samedi 09:30 – 17:00</li></ul>",
           "_tags": [
             "Theme"
           ],
