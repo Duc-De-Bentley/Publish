@@ -795,7 +795,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
