@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "qui-sommes-nous.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 70,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-6.png",
     "noImageResize": "true",
