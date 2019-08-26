@@ -628,7 +628,7 @@
     },
     "qui-sommes-nous.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique Mauritaniens pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.",
+        "meta_descr": "TABATOO GPS SOLUTIONS est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique Mauritaniens pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.\n\nLe logiciel de TABATOO GPS SOLUTIONS a été développé en 2019 par une équipe d'Ingénieurs professionnels et passionnés dont Fousseynou COULIBALY, l'actuel PDG et fondateur de la société. Le nom TABATOO est inspiré de la langue Soninké, une langue couramment parlée en Mauritanie. TABATOO signifie littéralement \"traces de pas\".",
         "title": "TABATOO GPS – Qui Sommes-Nous?",
         "order": 4
       },
@@ -878,7 +878,7 @@
     "offres.html": {
       "settings": {
         "title": "TABATOO GPS – Solutions",
-        "meta_descr": "TABATOO GPS SOLUTIONS s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.",
+        "meta_descr": "Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment TABATOO GPS SOLUTIONS peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
