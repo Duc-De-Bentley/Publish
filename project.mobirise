@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "index.html",
+    "currentPage": "qui-sommes-nous.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 70,
+    "uniqCompNum": 74,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-transparent-6.png",
@@ -30,7 +30,7 @@
       "settings": {
         "main": true,
         "title": "TABATOO GPS – Accueil",
-        "meta_descr": "",
+        "meta_descr": "Suivez, gérez et mesurez les performances de votre flotte de véhicules avec la solution GPS la plus avancée en Mauritanie pour votre entreprise.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -186,9 +186,9 @@
     },
     "solutions.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "TABATOO GPS SOLUTIONS s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.",
         "title": "TABATOO GPS – Services",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -628,9 +628,9 @@
     },
     "qui-sommes-nous.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "TABATOO GPS SOLUTIONS est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique Mauritaniens pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.",
         "title": "TABATOO GPS – Qui Sommes-Nous?",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -790,7 +790,7 @@
         {
           "_params": {
             "showText": false,
-            "outside": false
+            "outside": true
           },
           "media": {
             "image": {
@@ -878,7 +878,7 @@
     "offres.html": {
       "settings": {
         "title": "TABATOO GPS – Solutions",
-        "meta_descr": "",
+        "meta_descr": "TABATOO GPS SOLUTIONS s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1103,9 +1103,9 @@
     },
     "info.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "",
         "title": "TABATOO GPS – Info",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
