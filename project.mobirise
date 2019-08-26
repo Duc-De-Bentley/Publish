@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "index.html",
+    "currentPage": "offres.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -967,7 +967,7 @@
                 "showTitle": true,
                 "title": "Application Mobile",
                 "contentAlign": "left",
-                "text": "Téléchargez l'une de nos applications de suivi GPS sur mobile. Transformez votre mobile (iPhone et Android) en un suiveur GPS et suivez-le en ligne en temps réel. Vous pouvez choisir l'application client mobile <b>TABATOO</b> et accédez à toutes les fonctionnalités du logiciel sur votre smartphone ou votre tablette.",
+                "text": "Téléchargez l'une de nos applications de suivi GPS sur mobile. Transformez votre mobile (iPhone et Android) en un suiveur GPS et suivez-le en ligne en temps réel. Vous pouvez choisir l'application client mobile <b>TABATOO</b> et accédez à toutes les fonctionnalités du logiciel sur votre Smartphone ou votre tablette.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
@@ -1003,7 +1003,7 @@
                 "showTitle": true,
                 "title": "Notifications",
                 "contentAlign": "left",
-                "text": "Recevez des alertes instantanées sur votre objet de suivi. Savoir quand l'objet entre ou sort d'une géo-zone. Obtenez des alarmes SOS si votre voiture a été volée et désactivez facilement le moteur à distance. Recevez des notifications sur votre iPhone ou votre appareil Android, par e-mail, Application mobile ou SMS.",
+                "text": "Recevez des alertes instantanées sur votre objet de suivi. Savoir quand l'objet entre ou sort d'une géo-zone. Obtenez des alarmes SOS si votre voiture a été volée et désactivez facilement le moteur à distance. Recevez des notifications sur votre iPhone ou votre appareil Android, par e-mail, Application Mobile ou SMS.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
