@@ -17,5 +17,8 @@ Disallow: /support/
 Disallow: /tmp/
 User-agent: ClearWebStats
 Disallow: /
+User-agent: CuteStat
+Disallow: /
+
 
 
