@@ -19,6 +19,3 @@ User-agent: ClearWebStats
 Disallow: /
 User-agent: CuteStat
 Disallow: /
-
-
-
