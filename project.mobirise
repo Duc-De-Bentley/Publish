@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "tabatoo-fr",
-    "currentPage": "index.html",
+    "currentPage": "qui-sommes-nous.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -187,7 +187,7 @@
     },
     "solutions.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS s'est déjà positionnée comme le Leader des systèmes de suivi GPS en Mauritanie et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises Mauritaniennes.",
+        "meta_descr": "TABATOO s'est déjà positionné comme le Leader des systèmes de suivi GPS les plus avancés en Mauritanie pour votre enterprise.",
         "title": "TABATOO GPS – Services",
         "order": 3
       },
@@ -629,7 +629,7 @@
     },
     "qui-sommes-nous.html": {
       "settings": {
-        "meta_descr": "TABATOO GPS SOLUTIONS est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique Mauritaniens pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en Mauritanie.\n\nLe logiciel de TABATOO GPS SOLUTIONS a été développé en 2019 par une équipe d'Ingénieurs professionnels et passionnés dont Fousseynou COULIBALY, l'actuel PDG et fondateur de la société. Le nom TABATOO est inspiré de la langue Soninké, une langue couramment parlée en Mauritanie. TABATOO signifie littéralement \"traces de pas\".",
+        "meta_descr": "TABATOO GPS SOLUTIONS est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique Mauritaniens pour un tracking GPS moderne.",
         "title": "TABATOO GPS – Qui Sommes-Nous?",
         "order": 4
       },
@@ -775,7 +775,7 @@
           "_anchor": "header3-1m"
         },
         {
-          "text": "<p><b>TABATOO GPS SOLUTIONS</b> est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique <b>Mauritaniens</b> pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en <b>Mauritanie</b>.</p><p>Le logiciel de&nbsp;<b>TABATOO GPS SOLUTIONS</b> a été développé en 2019 par une équipe d'Ingénieurs professionnels et passionnés dont <b>Fousseynou COULIBALY</b>, l'actuel PDG et fondateur de la société. Le nom <b>TABATOO</b> est inspiré de la langue <b>Soninké</b>, une langue couramment parlée en <b>Mauritanie</b>. <b>TABATOO</b> signifie littéralement \"traces de pas\".</p><p>\n</p><p><b>TABATOO GPS SOLUTIONS</b> s'est déjà positionnée comme le Leader des systèmes de suivi GPS en <b>Mauritanie</b> et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises <b>Mauritaniennes</b>.\n</p><p>\n</p><p>Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment <b>TABATOO GPS SOLUTIONS</b> peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.</p>",
+          "text": "<p><b>TABATOO GPS SOLUTIONS</b> est un puissant système développé par une équipe d’Ingénieurs Informatique et Électronique <b>Mauritaniens</b> pour un tracking GPS et une gestion de flotte de haute qualité. Ainsi, nous sommes l'un des principaux développeurs de solutions complètes de suivi GPS et de gestion de flotte en <b>Mauritanie</b>.</p><p>Le logiciel de&nbsp;<b>TABATOO GPS SOLUTIONS</b> a été développé en 2019 par une équipe d'Ingénieurs professionnels et passionnés dont <b>Fousseynou COULIBALY</b>, l'actuel PDG et fondateur de la société. Le nom <b>TABATOO</b> est inspiré de la langue <b>Soninké</b>, une langue couramment parlée en <b>Mauritanie</b>. <b>TABATOO</b> signifie littéralement \"traces de pas\".</p><p>\n</p><p><b>TABATOO</b>&nbsp;s'est déjà positionnée comme le Leader des systèmes de suivi GPS en <b>Mauritanie</b> et est déjà liée à la mise en œuvre de solutions de tracking GPS pour de nombreuses entreprises <b>Mauritaniennes</b>.\n</p><p>\n</p><p>Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment <b>TABATOO</b>&nbsp;peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.</p>",
           "_tags": [
             "Theme"
           ],
@@ -879,7 +879,7 @@
     "offres.html": {
       "settings": {
         "title": "TABATOO GPS – Solutions",
-        "meta_descr": "Contactez notre équipe pour une consultation immédiate et laissez-nous vous démontrer comment TABATOO GPS SOLUTIONS peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.",
+        "meta_descr": "TABATOO GPS SOLUTIONS peut vous apporter les solutions de suivi GPS les plus adaptées à vos besoins d'aujourd'hui et de demain.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
